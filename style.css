@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee&family=Kanit:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100&family=Roboto+Slab:wght@300;400&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+:root{
+    --cor00: #8200B5;
+    --cor01: #F5D800;
+    --cor02: #540075;
+    --cor03: #B000F5;
+    --cor04: #260036;
+    --cor05: #9D00DB;
+
+    --fonteprincipal: "Bungee", sans-serif;
+    --fontsegundaria: "Roboto Slab", serif;
+}
+.summary{
+    background-image: url(https://www.megaidea.net/wp-content/uploads/2020/03/bob-esponja-clipart.png);
+    contain: " ";
+    height: 250px;
+    width: 60%;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: relative;
+ 
+}
+.explanation{
+
+}
+.participation{
+
+}
+.benefits{
+
+}
+.requerements{
+
+}
+.wrapper{
+
+}
+footer{
+
+}
+.sidebar{
+
+}
